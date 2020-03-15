@@ -1,0 +1,2 @@
+# Red-Neuronal-Entrenada-en-Keras-para-el-Recorrido-de-un-Circuito-con-un-Robot-a-Ruedas-en-VREP
+El precente proyecto explica sobre la implementación de una red neuronal entrenada en Keras, e implementada directamente en Python con los ajustes adecuados a fin de servir como un modelo matemático que nos ayude a detectar obstáculos y realizar el recorrido ``circular'' de un entorno con un robot a ruedas de 8 sensores.
